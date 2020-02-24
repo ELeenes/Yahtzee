@@ -1,0 +1,4 @@
+// Yahtzee
+public class Yahtzee {
+
+}
